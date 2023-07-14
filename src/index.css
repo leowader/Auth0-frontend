@@ -5,12 +5,7 @@ body {
   margin: 0;
   background-color: #18191A;
 }
-.titulo{
-  display: flex;
-  justify-content: center;
-  font-family: "Hack Nerd Font"; 
-  color: white;
-}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
